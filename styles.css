@@ -37,7 +37,9 @@ color: #969696;
 
 }
 
-
+.input-password{
+   margin-top: 21px; 
+}
 
 .forgot-password{
     font-style: normal;
@@ -50,10 +52,6 @@ color: #969696;
     text-align: right;
     text-decoration: none;
        
-}
-
-.input-password{
-   margin-top: 21px; 
 }
 
 button{
